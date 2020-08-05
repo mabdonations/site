@@ -9,4 +9,30 @@
     </author>
     <id>https://mabdonations.github.io/site</id>
 
+    <entry>
+        <title>wanted list</title>
+        <author>
+            <name>mabd</name>
+        </author>
+        <link href="https://mabdonations.github.io/site/wanted-list.html"/>
+        <id>https://mabdonations.github.io/site/wanted-list.html</id>
+
+        <updated>2020-08-05T18:29:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Things we needbedsofafridgedrivers
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Things we need</p>
+<ul>
+<li>bed</li>
+<li>sofa</li>
+<li>fridge</li>
+<li>drivers</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
 </feed>
