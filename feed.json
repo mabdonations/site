@@ -13,15 +13,15 @@
             "id": "https://mabdonations.github.io/site/wanted-list.html",
             "url": "https://mabdonations.github.io/site/wanted-list.html",
             "title": "wanted list",
-            "summary": "Things we needbedsofafridgedrivers",
-            "content_html": "<p>Things we need</p>\n<div>\n<ul>\n<li>bed</li>\n<li>sofa</li>\n<li>fridge</li>\n<li>drivers</li>\n</ul>\n</div>",
+            "summary": "Here's a list of the things we need: -sofa -kitchen -bed",
+            "content_html": "<p>Here's a list of the things we need:</p>\n<p>-sofa</p>\n<p>-kitchen</p>\n<p>-bed</p>",
             "author": {
                 "name": "mabd"
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T21:11:36+01:00",
-            "date_modified": "2020-08-05T21:11:36+01:00"
+            "date_published": "2020-08-05T21:12:41+01:00",
+            "date_modified": "2020-08-05T21:12:41+01:00"
         }
     ]
 }
