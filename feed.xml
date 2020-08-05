@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Mutual Aid Brighton donations service</title>
+    <title>MABD</title>
     <link href="https://mabdonations.github.io/site/feed.xml" rel="self" />
     <link href="https://mabdonations.github.io/site" />
     <updated>1970-01-01T01:00:00+01:00</updated>
@@ -17,7 +17,7 @@
         <link href="https://mabdonations.github.io/site/wanted-list.html"/>
         <id>https://mabdonations.github.io/site/wanted-list.html</id>
 
-        <updated>2020-08-05T18:29:48+01:00</updated>
+        <updated>2020-08-05T21:09:36+01:00</updated>
             <summary>
                 <![CDATA[
                     Things we needbedsofafridgedrivers
@@ -26,12 +26,14 @@
         <content type="html">
             <![CDATA[
                 <p>Things we need</p>
+<div>
 <ul>
 <li>bed</li>
 <li>sofa</li>
 <li>fridge</li>
 <li>drivers</li>
 </ul>
+</div>
             ]]>
         </content>
     </entry>
