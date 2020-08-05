@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>mabdonations</title>
+    <title>Mutual Aid Brighton donations service</title>
     <link href="https://mabdonations.github.io/site/feed.xml" rel="self" />
     <link href="https://mabdonations.github.io/site" />
     <updated>1970-01-01T01:00:00+01:00</updated>
@@ -9,25 +9,4 @@
     </author>
     <id>https://mabdonations.github.io/site</id>
 
-    <entry>
-        <title>First post</title>
-        <author>
-            <name>mabd</name>
-        </author>
-        <link href="https://mabdonations.github.io/site/first-post.html"/>
-        <id>https://mabdonations.github.io/site/first-post.html</id>
-
-        <updated>2020-08-05T17:08:15+01:00</updated>
-            <summary>
-                <![CDATA[
-                    This is placeholder text to try and prompt the site generator to produce some site.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is placeholder text to try and prompt the site generator to produce some site.</p>
-
-            ]]>
-        </content>
-    </entry>
 </feed>

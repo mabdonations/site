@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "mabdonations",
+    "title": "Mutual Aid Brighton donations service",
     "description": "",
     "home_page_url": "https://mabdonations.github.io/site",
     "feed_url": "https://mabdonations.github.io/site/feed.json",
@@ -9,19 +9,5 @@
         "name": "mabd"
     },
     "items": [
-        {
-            "id": "https://mabdonations.github.io/site/first-post.html",
-            "url": "https://mabdonations.github.io/site/first-post.html",
-            "title": "First post",
-            "summary": "This is placeholder text to try and prompt the site generator to produce some site.",
-            "content_html": "<p>This is placeholder text to try and prompt the site generator to produce some site.</p>\n",
-            "author": {
-                "name": "mabd"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-08-05T17:08:15+01:00",
-            "date_modified": "2020-08-05T17:08:15+01:00"
-        }
     ]
 }
